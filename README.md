@@ -10,10 +10,12 @@ A função `pegar_links_csv()` usa `BeautifulSoup` para encontrar os links de do
 
 No final, o script é executado chamando a função `scrapper_3ponte()`, que chama as funções acima e salva o arquivo CSV com os dados coletados.
 
-O projeto de DataViz (visualização de dados) feito no Tableau e disponível em https://public.tableau.com/views/TerceiraPonte/OpedgiodaTerceiraPonteemNmeros?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link é uma representação visual dos dados obtidos por meio do código em Python apresentado anteriormente.
+O projeto de DataViz (visualização de dados) [feito no Tableau e disponível neste link](https://public.tableau.com/views/TerceiraPonte/OpedgiodaTerceiraPonteemNmeros?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link) é uma representação visual dos dados obtidos por meio do código em Python apresentado anteriormente.
 
 A visualização tem como objetivo fornecer uma visão mais clara e acessível dos dados relacionados ao fluxo de veículos na Terceira Ponte, localizada no estado do Espírito Santo. Por meio de gráficos e tabelas interativas, é possível analisar diversos aspectos desse fluxo, como o número de veículos que circulam pela ponte em cada dia da semana, o horário de pico de circulação, a proporção de veículos de cada categoria que trafegam na ponte, entre outros.
 
 Além disso, a visualização permite que o usuário faça suas próprias análises e extraia insights relevantes sobre o fluxo de veículos na Terceira Ponte. Por exemplo, é possível identificar se há um aumento ou diminuição significativa no fluxo de veículos em determinado período do ano, ou se a proporção de veículos de uma determinada categoria mudou ao longo do tempo.
 
 Em resumo, o projeto de DataViz apresentado no Tableau é uma maneira poderosa e eficaz de explorar e visualizar os dados obtidos por meio do código em Python, permitindo uma análise mais profunda e informada do fluxo de veículos na Terceira Ponte.
+
+[Clique aqui para ver o dashboard](https://public.tableau.com/views/TerceiraPonte/OpedgiodaTerceiraPonteemNmeros?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)
